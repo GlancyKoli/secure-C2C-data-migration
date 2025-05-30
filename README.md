@@ -14,7 +14,7 @@ Step 1: Create Cloud Accounts</br>
 Step 2: Install Tools</br>
 On Ubuntu (Linux VM or system):</br>
 sudo apt update sudo apt install rclone openssl python3 python3-pip -y
-![Screenshot from 2025-05-04 14-28-37](https://github.com/user-attachments/assets/93457510-54e4-48b1-b769-92ec7b13e016)
+![Screenshot from 2025-05-04 14-28-37](https://github.com/user-attachments/assets/93457510-54e4-48b1-b769-92ec7b13e016)</br>
 These tools are: </br>
 rclone: Transfers files between clouds openssl:</br>Encrypts/decrypts files securely python3 & </br>hashlib: Checks file integrity 
 
