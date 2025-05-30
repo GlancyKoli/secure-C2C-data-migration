@@ -52,12 +52,12 @@ Create a file verify_hash.py:
 You can also open the migration_log.txt to see the log: 
 ![Screenshot from 2025-05-04 16-00-23](https://github.com/user-attachments/assets/e2b7224b-3b42-46af-8168-1f73fd88e5a5)
 
-# PHASE 3: Simulate Hacking Attempt (Fails) 
+# PHASE 3: Simulate Hacking Attempt
 Attack 1: Wrong Decryption Key 
 ![Screenshot from 2025-05-04 16-12-23](https://github.com/user-attachments/assets/19b6a330-6699-4839-934f-340ee5c72bf2)
 Result: "bad decrypt" error 
 
-Attack 2: File Tampering Attack (Fails via Hash Check) 
+Attack 2: File Tampering Attack
 ![Screenshot from 2025-05-04 17-01-37](https://github.com/user-attachments/assets/1ec58fd3-e942-4835-9fe0-e1d0c935b048)
 So, the attack is detected 
 
