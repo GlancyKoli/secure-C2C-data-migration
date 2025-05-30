@@ -3,7 +3,7 @@
 A secure method for cloud-to-cloud data migration using Linux command-line tools, with a focus on data security and the use of open-source solutions.
 
 
-PHASE 1: Environment Setup 
+PHASE 1: Environment Setup</br>
 Step 1: Create Cloud Accounts 
   -Sign up for AWS 
   -Sign up for Azure as the destination 
